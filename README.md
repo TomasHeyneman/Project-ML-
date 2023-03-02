@@ -18,19 +18,19 @@ You will notice the data set contains a large number of oddities. You are expect
 
 To generate a client list, you can (but don't have to) follow the next steps:
 1)	prepare the data set	
-    •	briefly survey the data
-    •	deal with data issues:
-    •	appropriate handle categorical data
-    •	treat missing data
-    •	identify outliers, and choose whether to make your analysis more robust by removing these
+    *	briefly survey the data
+    *	deal with data issues:
+    *	appropriate handle categorical data
+    *	treat missing data
+    *	identify outliers, and choose whether to make your analysis more robust by removing these
 2)	predict the projected revenue per clients
-    •	choose an algorithm, and train it in an optimal way
-    •	score the 500 applicants
+    *	choose an algorithm, and train it in an optimal way
+    *	score the 500 applicants
 3)	predict which clients will cause damage
-    •	choose an algorithm, and train it in an optimal way
-    •	score the 500 applicants
+    *	choose an algorithm, and train it in an optimal way
+    *	score the 500 applicants
 
 4)	for those that will wreak havoc, predict the amount of damage they will cause
-    •	choose an algorithm, and train it in an optimal way
-    •	score the 500 applicants
+    *	choose an algorithm, and train it in an optimal way
+    *	score the 500 applicants
 5)	create a measure of the expected value of each applicant, and create an optimal selection of 200 guests
