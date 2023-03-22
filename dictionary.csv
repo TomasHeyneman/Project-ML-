@@ -17,7 +17,6 @@ neighbor_income;Mean taxable income of neighborhood
 age;age
 marketing_permit;marketing contact allowed
 urban_ic;from urban region (vs rural)
-region;adress region
 dining_ic;use of in-hotel restaurants
 presidential;previous use of presidential suite
 client_segment;segment of client
@@ -42,7 +41,6 @@ retired;retired indicator
 profit_am;total profit across visits (excluding last visit)
 profit_last_am;profit across second last visit
 gold_status;gold client profile
-profit_am;total profit across visits  (excluding last visit)
 score1_pos;positivity' score, given by staff, as quantile, from hotel 1
 score2_pos;positivity' score, given by staff, as quantile, from hotel 2
 score3_pos;positivity' score, given by staff, as quantile, from hotel 3
